@@ -1,0 +1,50 @@
+body{
+  position: relative;
+  background-image: url("https://besthqwallpapers.com/img/original/20106/bmw-m3-f80-night-2017-cars-tuning.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.bmw-logo {
+  position: relative;
+  right: -1060px;
+  width: 220px;
+  height: 220px;
+}
+
+.bmw-m-logo {
+  position: relative;
+  right: -1030px;
+  width: 250px;
+  height: 100px;
+}
+ul {
+  display: table-cell;
+  list-style-type: none;
+  margin: 0;
+  padding:0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  font-family: Bahnschrift SemiBold;
+  display: block;
+  color: orangered;
+  text-align: center;
+  padding: 16px 96.7px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+h2 {
+  color: snow;
+  text-shadow: 1.5px 1.5px black;
+}
